@@ -1,0 +1,7 @@
+¿Qué ajustes hiciste con DevTools y cómo mejoraron el diseño?
+
+Con DevTools, ajusté el margin de las tarjetas de producto de 1rem a 2rem, lo que dio más espacio entre ellas y mejoró la legibilidad visual. Cambié el color del botón "Comprar Ahora" de #28a745 (verde) a #007bff (azul), aumentando el contraste contra el fondo claro (#f8f9fa) y haciéndolo más llamativo. También probé el diseño responsivo en tamaños de pantalla como 320px y 768px, ajustando el padding de .featured-products a 1.5rem en móviles para evitar que se viera apretado. Estos cambios hicieron el diseño más limpio y accesible.
+
+¿Cómo refleja tu diseño un enfoque comercial efectivo?
+
+El diseño es responsivo, atractivo y funcional, priorizando la experiencia del usuario. Las tarjetas destacan los productos con imágenes claras, precios visibles y botones con efecto hover que invitan a la acción, optimizando la conversión para una tienda online.
